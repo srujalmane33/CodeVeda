@@ -27,3 +27,25 @@ npm start
 Srujal Mane
 
 ⭐ Internship Task – Codveda Technology
+
+
+
+# Task 2 - Simple REST API
+
+A basic REST API built using Node.js and Express.js as part of my internship task.
+
+## 🚀 Tech Stack
+- Node.js
+- Express.js
+- Git & GitHub
+
+## ▶️ Run Project
+bash id="zgh0f7" npm install node index.js 
+
+## 📌 Features
+- Simple Express server
+- REST API routes
+- Git version control
+
+## 👨‍💻 Author
+Srujal Mane
